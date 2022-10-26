@@ -1,0 +1,104 @@
+
+.card{
+    border: 1px solid black;
+    width: 300px;
+    font-family: 'Hind Siliguri', sans-serif;
+    display: inline-block;
+    margin: 0 10px 0 0;
+}
+
+.card img{
+    width: 100%;
+}
+.card2 img{
+    width: 300px;
+    padding: 0 25px 0 25px;
+}
+.card2{
+
+    width: 350px;
+    border: 1px solid rgb(93, 22, 151);
+    font-family: 'Mina', sans-serif;
+}
+.card .text{
+    padding: 15px 20px 15px 20px ;
+}
+
+.card2 .text2{
+    padding: 10px 10px;
+}
+.card .text h3{
+    font-weight: 400;
+    font-size: 20px;
+    margin: 0 0 10px 0;
+}
+.card .text p{
+    margin: 0 0 10px 0;
+}
+.card .text .l-number{
+    color: #df6812;
+}
+.card .text a{
+    text-decoration: none;
+   border: 1px solid red;
+    color: rgb(238, 17, 17);
+    padding: 15px 15px;
+    display: inline-block;
+    transition: 1s;
+}
+.card2 .text2 .a2{
+    text-decoration: none;
+    border: 1px dashed blue;
+    color: black;
+    padding: 10px 10px;
+    display: inline-block;
+    transition: 0.5s;   
+}
+.card .text a:hover{
+    background-color: red;
+    color: beige;
+}
+.card2 .text2 .a2:hover{
+    background-color: rgb(98, 33, 219);
+}
+
+.t-shirt{
+    width: 300px;
+    border: 2px solid royalblue;
+    margin: 10px 0 0 0 ;
+    color: black;
+    background-color: blue;
+    transition: 00.5s;
+}
+.t-shirt img{
+    width: 100%;
+}
+.t-shirt .price{
+    color: crimson;
+}
+.t-shirt .price .old{
+    text-decoration: line-through;
+}
+.t-shirt:hover{
+    color: blue;
+    background-color: darkorchid;
+}
+.cube{
+    height: 400px;
+    width: 400px;
+    border: 2.5px solid palevioletred;
+    margin-top: 10px;
+    
+}
+.cube img{
+    height: 80%;
+    width: 100%;
+    border: 1px solid blue;
+}
+.cube .another_one{
+    color: rgb(54, 22, 235);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding-top: 0;
+}
+
+    
